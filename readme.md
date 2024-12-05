@@ -1,10 +1,8 @@
 # Convert Style String to Object
 
-> [JS Task Guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md)
-
 ## Task description:
 
-Implement a `convertToObject` function that takes a string with styles and returns an object where CSS declarations are converted to keys and values.
+Implemented a `convertToObject` function that takes a string with styles and returns an object where CSS declarations are converted to keys and values.
 
 Example: 
 

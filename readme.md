@@ -1,16 +1,20 @@
 # Style to Object
 
-### Description
+## 🎮 About the Project
+A JavaScript function that takes a string with styles and returns an object where CSS declarations are converted into keys and values.
 
-- Added a function that takes a String with styles and returns an object where CSS declarations are converted to keys and values
-  
-### Stack
+## 🚀 Tech Stack
+- **JavaScript** (Function implementation and logic)
 
-- JS
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality
+- **Prettier** – Code formatting for readability
+- **Jest** – Unit testing framework
 
-### Tools
+## 📌 Features
+✅ Converts CSS styles from string format to object format  
+✅ Easy-to-use function with clear structure  
 
-- ESlint
-- Prettier
-- Jest
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_style-to-object)
 
